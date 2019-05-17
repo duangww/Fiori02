@@ -1,0 +1,3 @@
+<mvc:View xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="ui5Map01.controller.View1" displayBlock="true">
+			<Button text="Say Hello" press="onShowHello" activeIcon="sap-icon://accidental-leave"/>
+</mvc:View>
